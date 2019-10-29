@@ -1,0 +1,6 @@
+/home/nitro/Study_Local/AK_linux/lab4/CMakeFiles/rebuild_cache.dir
+/home/nitro/Study_Local/AK_linux/lab4/CMakeFiles/main.dir
+/home/nitro/Study_Local/AK_linux/lab4/CMakeFiles/edit_cache.dir
+/home/nitro/Study_Local/AK_linux/lab4/hello/CMakeFiles/rebuild_cache.dir
+/home/nitro/Study_Local/AK_linux/lab4/hello/CMakeFiles/hello.dir
+/home/nitro/Study_Local/AK_linux/lab4/hello/CMakeFiles/edit_cache.dir
